@@ -1,0 +1,1 @@
+pyinstaller -F -i search.ico watermanon_home_download.py
